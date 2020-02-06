@@ -1,0 +1,11 @@
+# DISTRIBUTED-VERSION-CONTROL-SYSTEM
+
+And example is Git
+git is used in tracking historical facts and managing projects
+git is advantageouse in that it promotesthe following
+collaboration
+merging
+branching
+peering
+if the main server losses information every other programmer has a copy
+git is open source soo go ahead and use
